@@ -1,0 +1,55 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/CapstoneSuite.scala:4:23: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.scalacheck.Test[0m
+[0m[[0m[33mwarn[0m] [0m[0m                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/ExtractionTest.scala:3:25: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Assert._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/ExtractionTest.scala:4:18: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Test[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/ExtractionTest.scala:7:15: private val milestoneTest in trait ExtractionTest is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private val milestoneTest = namedMilestoneTest("data extraction", 1) _[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/Interaction2Test.scala:3:25: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Assert._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/Interaction2Test.scala:4:18: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Test[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/Interaction2Test.scala:7:15: private val milestoneTest in trait Interaction2Test is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private val milestoneTest = namedMilestoneTest("interactive user interface", 6) _[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/InteractionTest.scala:3:36: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport scala.collection.concurrent.TrieMap[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/InteractionTest.scala:4:25: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Assert._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/InteractionTest.scala:5:18: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Test[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/InteractionTest.scala:8:15: private val milestoneTest in trait InteractionTest is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private val milestoneTest = namedMilestoneTest("interactive visualization", 3) _[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/ManipulationTest.scala:3:18: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Test[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/ManipulationTest.scala:6:15: private val milestoneTest in trait ManipulationTest is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private val milestoneTest = namedMilestoneTest("data manipulation", 4) _[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/Visualization2Test.scala:3:18: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Test[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/Visualization2Test.scala:6:15: private val milestoneTest in trait Visualization2Test is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private val milestoneTest = namedMilestoneTest("value-added information visualization", 5) _[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/VisualizationTest.scala:3:25: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Assert._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/VisualizationTest.scala:4:18: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.junit.Test[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/test/scala/observatory/VisualizationTest.scala:7:15: private val milestoneTest in trait VisualizationTest is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private val milestoneTest = namedMilestoneTest("raw data display", 2) _[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m18 warnings found[0m

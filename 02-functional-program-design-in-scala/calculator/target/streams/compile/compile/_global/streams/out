@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/02-functional-program-design-in-scala/calculator/src/main/scala/calculator/TweetLength.scala:13:26: not found: value orange[0m
+[0m[[0m[31merror[0m] [0m[0m      case n if n>= 0 => orange[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

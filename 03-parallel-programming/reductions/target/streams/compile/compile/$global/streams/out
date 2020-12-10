@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/03-parallel-programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:99:29: comparing values of types (Int, Int) and Nothing using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    reduce(0, chars.length) == ???[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

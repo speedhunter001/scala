@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/04-Big-Data-Analysis-With-Scala-And-Spark/timeusage/src/main/scala/timeusage/TimeUsage.scala:67:32: not found: value primaryNeedsCols[0m
+[0m[[0m[31merror[0m] [0m[0m    (columnNames.filter(col => primaryNeedsCols.exists(c => col.startsWith(c))).map(c => col(c)),[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

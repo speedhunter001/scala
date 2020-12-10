@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/02-functional-program-design-in-scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:51:16: '=>' expected but '=' found.[0m
+[0m[[0m[31merror[0m] [0m[0m      case Nil = true[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

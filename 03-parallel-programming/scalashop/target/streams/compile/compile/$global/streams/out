@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/03-parallel-programming/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala:50:21: missing argument list for method update in class Img[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `update _` or `update(_,_,_)` instead of `update`.[0m
+[0m[[0m[31merror[0m] [0m[0m      while(y < src.update) {[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/03-parallel-programming/scalashop/src/main/scala/scalashop/package.scala:46:45: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    if (x < 0 || x >= src.width || y < 0 || y ?=src.height)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

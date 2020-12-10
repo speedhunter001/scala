@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/main/scala/observatory/Main.scala:6:16: not found: value Paths[0m
+[0m[[0m[31merror[0m] [0m[0m    val path = Paths.get(s"target/temperatures/$year/${tile.zoom}/")[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/main/scala/observatory/Main.scala:7:5: not found: value Files[0m
+[0m[[0m[31merror[0m] [0m[0m    Files.createDirectories(path)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/muhammadammarabid/IdeaProjects/scala/05-Functional-Programming-in-Scala-Captsone/observatory/src/main/scala/observatory/Main.scala:6:9: local val path in method generateImage is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val path = Paths.get(s"target/temperatures/$year/${tile.zoom}/")[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
